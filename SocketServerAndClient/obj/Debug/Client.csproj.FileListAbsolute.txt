@@ -1,0 +1,17 @@
+C:\Users\turgut\Documents\Visual Studio 2015\Projects\SocketClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.exe.config
+C:\Users\turgut\Documents\Visual Studio 2015\Projects\SocketClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.exe
+C:\Users\turgut\Documents\Visual Studio 2015\Projects\SocketClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.pdb
+C:\Users\turgut\Documents\Visual Studio 2015\Projects\SocketClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.exe
+C:\Users\turgut\Documents\Visual Studio 2015\Projects\SocketClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.pdb
+C:\Users\turgut\Documents\Visual Studio 2015\Projects\SocketClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.AnaForm.resources
+C:\Users\turgut\Documents\Visual Studio 2015\Projects\SocketClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.Properties.Resources.resources
+C:\Users\turgut\Documents\Visual Studio 2015\Projects\SocketClient\SocketServerAndClient\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.exe.config
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.exe
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.pdb
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.exe
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.pdb
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.AnaForm.resources
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.Properties.Resources.resources
+D:\1ABC\Projects\SocketClient\SocketServerAndClient\obj\Debug\Client.csproj.GenerateResource.Cache

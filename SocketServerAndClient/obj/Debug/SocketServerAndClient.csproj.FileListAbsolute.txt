@@ -1,0 +1,9 @@
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.exe.config
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.exe
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\bin\Debug\SocketServerAndClient.pdb
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.csprojResolveAssemblyReference.cache
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.Properties.Resources.resources
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.csproj.GenerateResource.Cache
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.exe
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.pdb
+c:\users\turgut\documents\visual studio 2015\Projects\SocketServerAndClient\SocketServerAndClient\obj\Debug\SocketServerAndClient.AnaForm.resources
